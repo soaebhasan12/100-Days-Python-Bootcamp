@@ -81,19 +81,3 @@ Angela Yu's *"100 Days of Code: Python Bootcamp"* is a comprehensive course desi
 
 🌟 Join Me on This Journey!
     Follow along as I tackle the 100 Days of Code challenge and grow my Python skills. Let's code, learn, and grow together! 🚀🐍
-
-
-#100DaysOfCode
-
-### How to Add This to Your Repository:
-   1. Copy the above Markdown content.
-   2. Go to your repository: [https://github.com/soaebhasan12/100-Days-Python-Bootcamp.git](https://github.com/soaebhasan12/100-Days-Python-Bootcamp.git).
-   3. Click on the `Add file` button and choose `Create new file`.
-   4. Name the file `README.md`.
-   5. Paste the content into the file.
-   6. Commit the changes.
-
-
-
-### Result:
-    Your repository will now have a beautifully formatted `README.md` that describes your project and invites others to explore your journey through the *100 Days of Code* challenge! 🚀
