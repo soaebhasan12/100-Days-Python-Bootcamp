@@ -68,16 +68,16 @@
 
 
 
-##🤝 Contributing
-     While this repository is primarily a personal record of my progress, I welcome suggestions, feedback, and collaborations! If you find any issues or have ideas for improvement, feel free to open an issue or submit a pull request.
+## 🤝 Contributing
+   While this repository is primarily a personal record of my progress, I welcome suggestions, feedback, and collaborations! If you find any issues or have ideas for improvement, feel free to open an issue or submit a pull request.
 
 
 
 
-##📄License
-    This project is licensed under the MIT License. See the LICENSE file for details.
+## 📄 License
+   This project is licensed under the MIT License. See the LICENSE file for details.
     https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT
 
 
-##🌟 Join Me on This Journey!
-    Follow along as I tackle the 100 Days of Code challenge and grow my Python skills. Let's code, learn, and grow together! 🚀🐍
+## 🌟 Join me in this Journey
+   Follow along as I tackle the 100 Days of Code challenge and grow my Python skills. Let's code, learn, and grow together! 🚀🐍
