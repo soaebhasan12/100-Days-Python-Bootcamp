@@ -56,7 +56,7 @@
 
 
 
-📚 Resources
+##📚 Resources
    Angela Yu's 100 Days of Code: Python Bootcamp on Udemy
 
    Python Documentation
@@ -68,16 +68,16 @@
 
 
 
-🤝 Contributing
+##🤝 Contributing
      While this repository is primarily a personal record of my progress, I welcome suggestions, feedback, and collaborations! If you find any issues or have ideas for improvement, feel free to open an issue or submit a pull request.
 
 
 
 
-📄 License
+##📄License
     This project is licensed under the MIT License. See the LICENSE file for details.
     https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT
 
 
-🌟 Join Me on This Journey!
+##🌟 Join Me on This Journey!
     Follow along as I tackle the 100 Days of Code challenge and grow my Python skills. Let's code, learn, and grow together! 🚀🐍
