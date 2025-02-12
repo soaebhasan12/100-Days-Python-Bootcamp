@@ -12,8 +12,8 @@ This repository is organized into daily folders, each containing the code, proje
 
 ## 🛠️ What You'll Find Here
 
- **Daily Progress**: Code and projects for each day of the bootcamp.
-  **Topics Covered**:
+ Daily Progress: Code and projects for each day of the bootcamp.
+ Topics Covered:
       Python Basics (Variables, Data Types, Loops, Functions, etc.)
       Object-Oriented Programming (OOP)
       Web Development (Flask, APIs, Web Scraping)
@@ -21,10 +21,7 @@ This repository is organized into daily folders, each containing the code, proje
       Automation (File Handling, Web Automation, GUI Automation)
       Game Development (Turtle, Pygame)
       And much more!
-  **Challenges**: Solutions to coding challenges and exercises.
-  **Notes**: Helpful notes and explanations for key concepts.
-
-
+  Challenges: Solutions to coding challenges and exercises.
 
 
 
@@ -36,11 +33,11 @@ Angela Yu's *"100 Days of Code: Python Bootcamp"* is a comprehensive course desi
 
 ## 🛠️ Technologies and Tools Used
 
-    **Python**: Core programming language.
-    **Libraries**: Pandas, NumPy, Matplotlib, Flask, BeautifulSoup, Selenium, etc.
-    **Tools**: VS Code, Jupyter Notebook, Git, GitHub.
-    **APIs**: RESTful APIs, JSON data handling.
-    **Databases**: SQLite, SQLAlchemy.
+   Python: Core programming language.
+   Libraries: Pandas, NumPy, Matplotlib, Flask, BeautifulSoup, Selenium, etc.
+   Tools: VS Code, Jupyter Notebook, Git, GitHub.
+   APIs: RESTful APIs, JSON data handling.
+   Databases: SQLite, SQLAlchemy.
 
 
 
@@ -60,13 +57,13 @@ Angela Yu's *"100 Days of Code: Python Bootcamp"* is a comprehensive course desi
 
 
 📚 Resources
-    Angela Yu's 100 Days of Code: Python Bootcamp on Udemy
+   Angela Yu's 100 Days of Code: Python Bootcamp on Udemy
 
-    Python Documentation
+   Python Documentation
 
-    VS Code
+   VS Code
 
-    GitHub Docs
+   GitHub Docs
 
 
 
@@ -89,12 +86,12 @@ Angela Yu's *"100 Days of Code: Python Bootcamp"* is a comprehensive course desi
 #100DaysOfCode
 
 ### How to Add This to Your Repository:
-    1. Copy the above Markdown content.
-    2. Go to your repository: [https://github.com/soaebhasan12/100-Days-Python-Bootcamp.git](https://github.com/soaebhasan12/100-Days-Python-Bootcamp.git).
-    3. Click on the `Add file` button and choose `Create new file`.
-    4. Name the file `README.md`.
-    5. Paste the content into the file.
-    6. Commit the changes.
+   1. Copy the above Markdown content.
+   2. Go to your repository: [https://github.com/soaebhasan12/100-Days-Python-Bootcamp.git](https://github.com/soaebhasan12/100-Days-Python-Bootcamp.git).
+   3. Click on the `Add file` button and choose `Create new file`.
+   4. Name the file `README.md`.
+   5. Paste the content into the file.
+   6. Commit the changes.
 
 
 
