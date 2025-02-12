@@ -1,4 +1,4 @@
-# Run this project code on replit (link: replit.com) 
+# Run this project code on replit compiler (link: replit.com) 
 from replit import clear
 
 from art import logo
