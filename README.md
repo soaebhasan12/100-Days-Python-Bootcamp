@@ -4,49 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>100 Days of Code: Python Bootcamp</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 0;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        code {
-            background-color: #eaeaea;
-            padding: 2px 4px;
-            border-radius: 4px;
-            font-family: monospace;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-        .section h2 {
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 5px;
-        }
-        .repo-structure {
-            background-color: #fff;
-            padding: 15px;
-            border-radius: 5px;
-            border: 1px solid #ddd;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
