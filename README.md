@@ -1,19 +1,19 @@
 # 100 Days of Code: Python Bootcamp 🚀🐍
 
-Welcome to my **100 Days of Code: Python Bootcamp** repository! This repository contains all my projects, code, and progress from Angela Yu's *"100 Days of Code: Python Bootcamp"* on Udemy. Join me on this journey as I document my daily progress, challenges, and learnings while mastering Python from beginner basics to advanced topics like web development, data science, and automation.
+   Welcome to my 100 Days of Code: Python Bootcamp** repository! This repository contains all my projects, code, and progress from Angela Yu's "100 Days of Code: Python Bootcamp" on Udemy. Join me on this journey as I document my daily progress, challenges, and learnings while mastering Python from beginner basics to advanced topics like web development, data science, and automation.
 
 
 
 ## 📂 Repository Overview
 
-This repository is organized into daily folders, each containing the code, projects, and notes for that specific day of the bootcamp. Whether you're a beginner or an experienced coder, feel free to explore, learn, and grow your Python skills with me!
+   This repository is organized into daily folders, each containing the code, projects, and notes for that specific day of the bootcamp. Whether you're a beginner or an experienced coder, feel free to explore, learn, and grow your Python skills with me!
 
 
 
 ## 🛠️ What You'll Find Here
 
- Daily Progress: Code and projects for each day of the bootcamp.
- Topics Covered:
+   Daily Progress: Code and projects for each day of the bootcamp.
+   Topics Covered:
       Python Basics (Variables, Data Types, Loops, Functions, etc.)
       Object-Oriented Programming (OOP)
       Web Development (Flask, APIs, Web Scraping)
@@ -21,14 +21,14 @@ This repository is organized into daily folders, each containing the code, proje
       Automation (File Handling, Web Automation, GUI Automation)
       Game Development (Turtle, Pygame)
       And much more!
-  Challenges: Solutions to coding challenges and exercises.
+   Challenges: Solutions to coding challenges and exercises.
 
 
 
 
 ## 🚀 Why This Bootcamp?
 
-Angela Yu's *"100 Days of Code: Python Bootcamp"* is a comprehensive course designed to take you from a beginner to an advanced Python developer. By committing to coding every day for 100 days, I aim to build a strong foundation in Python and explore its real-world applications.
+   Angela Yu's *"100 Days of Code: Python Bootcamp"* is a comprehensive course designed to take you from a beginner to an advanced Python developer. By committing to coding every day for 100 days, I aim to build a strong foundation in Python and explore its real-world applications.
 
 
 ## 🛠️ Technologies and Tools Used
