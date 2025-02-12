@@ -78,26 +78,7 @@
             </ul>
         </div>
 
-        <div class="section">
-            <h2>🗂️ Repository Structure</h2>
-            <div class="repo-structure">
-                <pre>
-100-Days-of-Code-Python/
-├── Day-01/               # Day 1: Python Basics
-│   ├── project.py
-│   └── notes.md
-├── Day-02/               # Day 2: Control Flow
-│   ├── project.py
-│   └── notes.md
-├── ...
-├── Day-100/              # Day 100: Final Project
-│   ├── final_project.py
-│   └── notes.md
-├── README.md             # This file
-└── LICENSE               # License for the repository
-                </pre>
-            </div>
-        </div>
+
 
         <div class="section">
             <h2>🚀 Why This Bootcamp?</h2>
