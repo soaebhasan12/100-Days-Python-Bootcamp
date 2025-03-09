@@ -11,7 +11,7 @@
 <h2>📖 About This Repository</h2>
 
 <p>
-This repository contains all the projects, exercises, and notes from the <strong>100 Days of Python Bootcamp</strong> by <a href="https://www.udemy.com/course/100-days-of-code-python/" target="_blank">Dr. Angela Yu</a>. 🏆
+This repository contains all the projects, exercises, and notes from the <strong>100 Days of Python Bootcamp</strong> by <a href="[https://www.udemy.com/course/100-days-of-code-python/"](https://www.udemy.com/course/100-days-of-code/?couponCode=LEARNNOWPLANS) target="_blank">Dr. Angela Yu</a>. 🏆
 It covers everything from basic Python syntax to advanced concepts like web scraping, APIs, and machine learning. 🚀
 </p>
 
