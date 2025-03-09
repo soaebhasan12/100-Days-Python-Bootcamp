@@ -11,7 +11,7 @@
 <h2>📖 About This Repository</h2>
 
 <p>
-This repository contains all the projects, exercises, and notes from the <strong>100 Days of Python Bootcamp</strong> by <a href="[https://www.udemy.com/course/100-days-of-code-python/"](https://www.udemy.com/course/100-days-of-code/?couponCode=LEARNNOWPLANS) target="_blank">Dr. Angela Yu</a>. 🏆
+This repository contains all the projects, exercises, and notes from the <strong>100 Days of Python Bootcamp</strong> by <a href="https://www.udemy.com/course/100-days-of-code-python/"(https://www.udemy.com/course/100-days-of-code/?couponCode=LEARNNOWPLANS) target="_blank">Dr. Angela Yu</a>. 🏆
 It covers everything from basic Python syntax to advanced concepts like web scraping, APIs, and machine learning. 🚀
 </p>
 
@@ -46,18 +46,3 @@ It covers everything from basic Python syntax to advanced concepts like web scra
 </p>
 
 ---
-
-<h2>📂 Folder Structure</h2>
-
-```bash
-📦 100-days-python
-│-- 📁 Day 01 - Beginner Basics
-│-- 📁 Day 02 - Data Types & Strings
-│-- 📁 Day 03 - Conditional Statements
-│-- 📁 Day 04 - Loops & Functions
-│-- 📁 Day 05 - Lists & Dictionaries
-│-- 📁 Day 06 - OOP Basics
-│-- 📁 Day 07 - File Handling
-│-- 📁 Day 08 - Web Scraping
-│-- 📁 Day 09 - APIs & JSON
-│-- 📁 Day 10 - Final Capstone Project
